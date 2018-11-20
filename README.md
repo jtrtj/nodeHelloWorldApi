@@ -1,0 +1,2 @@
+## Node Hello World API
+This JSON api was built using only Node's built in features. It is the first homework assignment for the [Pirple Node.js Master Class](https://pirple.thinkific.com/courses/the-nodejs-master-class)
